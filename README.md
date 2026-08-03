@@ -101,6 +101,9 @@ This \(a\) is for **950nm wavelength**.
 ### Bending Loss
 <img width="1600" height="1124" alt="image" src="https://github.com/user-attachments/assets/3aeb5425-6388-4fb1-b2ed-396e0cb48c95" />
 
+<img width="1060" height="1600" alt="image" src="https://github.com/user-attachments/assets/7459f2e0-d3b0-40a6-918b-3aa7088f4009" />
+
+---
 
 ## RESULT
 - Propagation loss and bending losses for **660nm** and **950nm** wavelengths were measured.  
