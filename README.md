@@ -76,7 +76,6 @@ This \(a\) is for **660nm wavelength**.
 **Formula:**  
 <img width="758" height="50" alt="image" src="https://github.com/user-attachments/assets/56fbe9d6-9bff-460b-b04b-d2a73d0c3cd1" />
 
-
 This \(a\) is for **950nm wavelength**.  
 8. Compare attenuation values for 660nm and 950nm.  
 
@@ -97,12 +96,10 @@ This \(a\) is for **950nm wavelength**.
 ### Propagation Loss
 <img width="1600" height="1010" alt="image" src="https://github.com/user-attachments/assets/fc2a6a0b-8613-4b80-ab11-d435eea7147f" />
 
-
 ### Bending Loss
 <img width="1600" height="1124" alt="image" src="https://github.com/user-attachments/assets/3aeb5425-6388-4fb1-b2ed-396e0cb48c95" />
 
 <img width="1060" height="1600" alt="image" src="https://github.com/user-attachments/assets/7459f2e0-d3b0-40a6-918b-3aa7088f4009" />
-
 ---
 
 ## RESULT
