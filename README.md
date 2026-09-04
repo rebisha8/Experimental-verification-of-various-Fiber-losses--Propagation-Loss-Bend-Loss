@@ -5,7 +5,6 @@
 To measure propagation loss & bending losses for two different wavelengths in plastic Fiber provided with the kit.
 
 ---
-
 ## EQUIPMENTS REQUIRED
 - Link-B Kit with power supply  
 - Patch chords  
@@ -14,7 +13,6 @@ To measure propagation loss & bending losses for two different wavelengths in pl
 - 1 Meter Fiber Cable  
 
 ---
-
 ## THEORY
 Optical Fibers are available in different varieties of materials. These materials are usually selected by taking into account their absorption characteristics for different wavelengths of light.  
 
@@ -31,7 +29,6 @@ Since the signal in Optical Fiber is transmitted in the form of light (different
   - Other losses occur due to coupling at LED and photo detector ends.  
 
 ---
-
 ## PROCEDURE
 
 1. Connect the power supply with proper polarity to the kit link-B and switch it on.  
@@ -63,7 +60,6 @@ Where:
 This \(a\) is for **660nm wavelength**.  
 
 ---
-
 ### For 950nm Wavelength
 1. Set switch **SW9 → TX2 position**.  
 2. Set Jumper **JP7 → +12V position**.  
@@ -80,7 +76,6 @@ This \(a\) is for **950nm wavelength**.
 8. Compare attenuation values for 660nm and 950nm.  
 
 ---
-
 ## MEASUREMENT OF BENDING LOSSES
 1. Remove fiber from SFH450V (950nm) & SFH350V.  
 2. Insert 1m fiber between **SFH756V (660nm)** & **SFH350V**.  
@@ -90,18 +85,14 @@ This \(a\) is for **950nm wavelength**.
 6. Plot graph: **Received signal amplitude vs. Loop diameter**.  
 
 ---
-
 ## TABULATION
 
 ### Propagation Loss
 <img width="1600" height="1010" alt="image" src="https://github.com/user-attachments/assets/fc2a6a0b-8613-4b80-ab11-d435eea7147f" />
-
 ### Bending Loss
 <img width="1600" height="1124" alt="image" src="https://github.com/user-attachments/assets/3aeb5425-6388-4fb1-b2ed-396e0cb48c95" />
-
 <img width="1060" height="1600" alt="image" src="https://github.com/user-attachments/assets/7459f2e0-d3b0-40a6-918b-3aa7088f4009" />
 ---
-
 ## RESULT
 - Propagation loss and bending losses for **660nm** and **950nm** wavelengths were measured.  
 - Attenuation values compared and bending loss characteristics plotted.  
